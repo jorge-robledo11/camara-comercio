@@ -791,7 +791,7 @@ $$PE_{nuevo} = \frac{Costos\ fijos\ actualizados}{Margen\ ponderado\ actualizado
 
 Instalar una práctica sencilla de ahorro operativo para proteger y hacer crecer el negocio.
 
-<div align="center"><img src="assets/bonus-ahorro-inteligente-escudo-motor.png" alt="Fondos de ahorro divididos entre Escudo y Motor" width="640"/></div>
+<div align="center"><img src="assets/bonus-ahorro-inteligente-escudo.png" alt="Fondos de ahorro divididos entre Escudo y Motor" width="640"/></div>
 
 ---
 
@@ -920,11 +920,11 @@ $$Ahorro = Excedente \times 0{,}50$$
 | Fórmula | Cálculo |
 |---|---|
 | 💲 Costo total unitario | $CT_u = CF_u + CV_u$ |
-| 🏷️ Precio de venta | $PV = \dfrac{CT_u}{1 - m}$ |
+| 🏷️ Precio de venta | $PV = \frac{CT_u}{1 - m}$ |
 | 📐 Margen de contribución | $MC = PV - CV_u$ |
-| ⚖️ Punto de equilibrio (unidades) | $PE_u = \dfrac{CF}{MC}$ |
-| 💵 Punto de equilibrio (pesos) | $PE_{\$} = PE_u \times PV$ |
-| 📊 Participación por producto | $\%_i = \dfrac{Unidades_i}{Unidades_{totales}}$ |
-| 📊 Margen ponderado (multiproducto) | $MP = \displaystyle\sum_{i=1}^{n} \left( MC_i \times \%_i \right)$ |
-| ⚖️ P.E. multiproducto | $PE_{multi} = \dfrac{CF}{MP}$ |
-| 📅 Meta semanal | $Meta_{sem} = \dfrac{Meta_{mes}}{4}$ |
+| ⚖️ Punto de equilibrio (unidades) | $PE_u = \frac{CF}{MC}$ |
+| 💵 Punto de equilibrio (pesos) | $PE_s = PE_u \times PV$ |
+| 📊 Participación por producto | $p_i = \frac{Unidades_i}{Unidades_{totales}}$ |
+| 📊 Margen ponderado (multiproducto) | $MP = \sum_{i=1}^{n}(MC_i \times p_i)$ |
+| ⚖️ P.E. multiproducto | $PE_{multi} = \frac{CF}{MP}$ |
+| 📅 Meta semanal | $Meta_{sem} = \frac{Meta_{mes}}{4}$ |

@@ -791,7 +791,7 @@ $$PE_{nuevo} = \frac{Costos\ fijos\ actualizados}{Margen\ ponderado\ actualizado
 
 Instalar una práctica sencilla de ahorro operativo para proteger y hacer crecer el negocio.
 
-<div align="center"><img src="assets/bonus-ahorro-inteligente-escudo-motor.png" alt="Fondos de ahorro divididos entre Escudo y Motor" width="640"/></div>
+<div align="center"><img src="assets/bonus-ahorro-inteligente-escudo.png" alt="Fondos de ahorro divididos entre Escudo y Motor" width="640"/></div>
 
 ---
 
