@@ -868,10 +868,10 @@ $$Ahorro = Excedente \times 0{,}50$$
 
 | Concepto | Valor |
 |---|---:|
-| Venta del día | \$200.000 |
-| Meta del día | \$150.000 |
-| Excedente | $\$200.000 - \$150.000 = \$50.000$ |
-| **Ahorro** | **$\$50.000 \times 0{,}50 = \$25.000$** |
+| Venta del día | $200.000 |
+| Meta del día | $150.000 |
+| Excedente | $200.000 - $150.000 = $50.000 |
+| **Ahorro** | **$50.000 × 0,50 = $25.000** |
 
 ---
 
