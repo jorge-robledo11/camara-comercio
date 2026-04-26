@@ -194,9 +194,9 @@ Supongamos 1.000 galletas al mes.
 
 | Concepto | Cálculo | Valor |
 |---|---|---:|
-| Costo fijo unitario | $\$800.000 \div 1.000$ | \$800 |
+| Costo fijo unitario | $800.000 \div 1.000$ | \$800 |
 | Costo variable unitario | Ingredientes + empaque + gas + MO | \$2.000 |
-| **Costo total unitario** | $\$800 + \$2.000$ | **\$2.800** |
+| **Costo total unitario** | $800 + 2.000$ | **\$2.800** |
 
 > 🚨 Si vendes cada galleta por menos de \$2.800, estás perdiendo plata.
 
@@ -597,10 +597,10 @@ El Canvas ayuda a entender cómo el negocio crea, entrega y captura valor.
 
 | Flujo de ingreso | Segmento cliente | Propuesta de valor | Precio base | Margen estimado | Frecuencia | Prioridad |
 |---|---|---|---|---|---|---|
-| 🛒 Venta unitaria | Vecinos / paso a paso | Producto fresco inmediato | \$4.500 A / \$6.500 B | Medio | Diario | Alta |
-| 📦 Combos | Familias y reuniones | Ahorro por volumen | \$24.000 caja de 6 | Alto | Fines de semana | Alta |
+| 🛒 Venta unitaria | Vecinos / paso a paso | Producto fresco inmediato | $4.500 (A)<br>$6.500 (B) | Medio | Diario | Alta |
+| 📦 Combos | Familias y reuniones | Ahorro por volumen | $24.000 caja de 6 | Alto | Fines de semana | Alta |
 | 🏢 Corporativos / eventos | Empresas, colegios | Grandes cantidades, personalización | Cotización | Alto si se planifica | Mensual / evento | Media-Alta |
-| 🔄 Suscripción mensual | Clientes frecuentes | Caja mensual a domicilio | \$80.000 mensual | Alto si hay volumen | Mensual | Estrategia futura |
+| 🔄 Suscripción mensual | Clientes frecuentes | Caja mensual a domicilio | $80.000 mensual | Alto si hay volumen | Mensual | Estrategia futura |
 
 ---
 
