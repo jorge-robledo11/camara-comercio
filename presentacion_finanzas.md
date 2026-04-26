@@ -218,12 +218,12 @@ $$Precio = \frac{\$2.800}{1 - 0{,}30} = \frac{\$2.800}{0{,}70} = \$4.000$$
 |---|---|---:|
 | Costos fijos mensuales | Arriendo + servicios + internet | \$800.000 |
 | Unidades esperadas al mes | Supuesto del emprendedor | 1.000 |
-| Costo fijo unitario | $\$800.000 \div 1.000$ | \$800 |
+| Costo fijo unitario | $800.000 \div 1.000$ | \$800 |
 | Costo variable unitario | Ingredientes + empaque + gas + MO | \$2.000 |
-| Costo total unitario | $\$800 + \$2.000$ | \$2.800 |
+| Costo total unitario | $800 + 2.000$ | \$2.800 |
 | Margen deseado | 30% | 0,30 |
-| **Precio de venta sugerido** | $\frac{\$2.800}{0{,}70}$ | **\$4.000** |
-| **Ganancia por unidad** | $\$4.000 - \$2.800$ | **\$1.200** |
+| **Precio de venta sugerido** | $\frac{2.800}{0{,}70}$ | **\$4.000** |
+| **Ganancia por unidad** | $4.000 - 2.800$ | **\$1.200** |
 
 ---
 
