@@ -9,7 +9,7 @@ date: "Abril 26 - 2026"
 
 ## 🚀 De la idea al crecimiento sostenible
 
-![Portada del módulo de mentoría de finanzas para microemprendedores](assets/portada-mentoria-finanzas.png)
+<div align="center"><img src="assets/portada-mentoria-finanzas.png" alt="Portada del módulo de mentoría de finanzas para microemprendedores" width="640"/></div>
 
 ---
 
@@ -115,7 +115,7 @@ Rosa hace y vende empanadas. Vende todos los días, pero siente que el dinero de
 
 Entender qué vendes, cuánto te cuesta producir y cómo definir un precio mínimo que te deje ganar.
 
-![Emprendedora organizando costos, precios y productos](assets/etapa-descubrimiento-costos-precios.png)
+<div align="center"><img src="assets/etapa-descubrimiento-costos-precios.png" alt="Emprendedora organizando costos, precios y productos" width="640"/></div>
 
 ---
 
@@ -255,7 +255,7 @@ $$Precio = \frac{\$2.800}{1 - 0{,}30} = \frac{\$2.800}{0{,}70} = \$4.000$$
 
 Separar el dinero personal del dinero del negocio y calcular cuántas ventas necesitas para no perder.
 
-![Separación de finanzas del hogar y finanzas del negocio](assets/etapa-nacimiento-separacion-cuentas.png)
+<div align="center"><img src="assets/etapa-nacimiento-separacion-cuentas.png" alt="Separación de finanzas del hogar y finanzas del negocio" width="640"/></div>
 
 ---
 
@@ -292,7 +292,7 @@ El primer paso es separar:
 
 El facilitador menciona movimientos. Tú decides a qué caja van:
 
-![Actividad práctica separando ingresos y gastos en dos cajas](assets/imagen-separar-cuentas.png)
+<div align="center"><img src="assets/imagen-separar-cuentas.png" alt="Actividad práctica separando ingresos y gastos en dos cajas" width="640"/></div>
 
 | Movimiento | ¿Caja personal o del negocio? |
 |---|---|
@@ -344,7 +344,7 @@ $$Margen\ de\ contribución = Precio\ de\ venta - Costo\ variable\ unitario$$
 
 Es la cantidad de ventas donde el negocio **no gana ni pierde** 🎯
 
-![Visualización de pérdida, punto de equilibrio y ganancia](assets/imagen-punto-equilibrio.png)
+<div align="center"><img src="assets/imagen-punto-equilibrio.png" alt="Visualización de pérdida, punto de equilibrio y ganancia" width="640"/></div>
 
 - 🔴 Si vende menos: **pierde dinero**
 - 🟡 Si vende exacto: **no gana ni pierde**
@@ -391,7 +391,7 @@ $$PE = \frac{\$800.000}{\$2.000} = 400\ galletas$$
 
 Comparar productos, saber cuáles convienen más y calcular el punto de equilibrio cuando vendes varios productos.
 
-![Comparación de productos por popularidad y rentabilidad](assets/etapa-despegue-comparacion-productos.png)
+<div align="center"><img src="assets/etapa-despegue-comparacion-productos.png" alt="Comparación de productos por popularidad y rentabilidad" width="640"/></div>
 
 ---
 
@@ -530,7 +530,7 @@ Compara tus ventas reales contra el punto de equilibrio:
 
 Ordenar la estructura financiera del negocio para crecer sin perder control.
 
-![Modelo de negocio con costos ordenados y flujos de ingreso](assets/etapa-crecimiento-modelo-negocio.png)
+<div align="center"><img src="assets/etapa-crecimiento-modelo-negocio.png" alt="Modelo de negocio con costos ordenados y flujos de ingreso" width="640"/></div>
 
 ---
 
@@ -628,7 +628,7 @@ El Canvas ayuda a entender cómo el negocio crea, entrega y captura valor.
 
 > 🎯 Crecer no es vender más a cualquier costo. Crecer es vender mejor, con márgenes claros y costos controlados.
 
-![Crecimiento paso a paso del negocio](assets/imagen-crecimiento-negocio.png)
+<div align="center"><img src="assets/imagen-crecimiento-negocio.png" alt="Crecimiento paso a paso del negocio" width="640"/></div>
 
 ---
 
@@ -648,7 +648,7 @@ El Canvas ayuda a entender cómo el negocio crea, entrega y captura valor.
 
 Tomar decisiones estratégicas con base en rentabilidad, costos y punto de equilibrio actualizado.
 
-![Toma de decisiones basada en rentabilidad y números](assets/etapa-madurez-decision-rentabilidad.png)
+<div align="center"><img src="assets/etapa-madurez-decision-rentabilidad.png" alt="Toma de decisiones basada en rentabilidad y números" width="640"/></div>
 
 ---
 
@@ -771,7 +771,7 @@ $$PE_{nuevo} = \frac{Costos\ fijos\ actualizados}{Margen\ ponderado\ actualizado
 
 > 🔄 El punto de equilibrio no se calcula una sola vez. Se recalcula cada vez que cambian los precios, los costos o la mezcla de ventas.
 
-![Tomar decisiones financieras con datos y números claros](assets/imagen-decision-con-numeros.png)
+<div align="center"><img src="assets/imagen-decision-con-numeros.png" alt="Tomar decisiones financieras con datos y números claros" width="640"/></div>
 
 ---
 
@@ -791,7 +791,7 @@ $$PE_{nuevo} = \frac{Costos\ fijos\ actualizados}{Margen\ ponderado\ actualizado
 
 Instalar una práctica sencilla de ahorro operativo para proteger y hacer crecer el negocio.
 
-![Fondos de ahorro divididos entre Escudo y Motor](assets/bonus-ahorro-inteligente-escudo-motor.png)
+<div align="center"><img src="assets/bonus-ahorro-inteligente-escudo-motor.png" alt="Fondos de ahorro divididos entre Escudo y Motor" width="640"/></div>
 
 ---
 
@@ -884,7 +884,7 @@ $$Ahorro = Excedente \times 0{,}50$$
 
 ## 🧱 Compromiso: Mi primer ladrillo
 
-![Ahorro dividido entre protección Escudo y crecimiento Motor](assets/imagen-ahorro-escudo-motor.png)
+<div align="center"><img src="assets/imagen-ahorro-escudo-motor.png" alt="Ahorro dividido entre protección Escudo y crecimiento Motor" width="640"/></div>
 
 > 📝 Me comprometo a separar **\$_____ diarios** por producto antes de pagar cualquier otra cosa.
 >
