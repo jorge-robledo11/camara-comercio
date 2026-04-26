@@ -1,10 +1,3 @@
----
-title: "Mentoría de Finanzas para Microemprendedores"
-subtitle: "De la idea al crecimiento sostenible"
-author: "Alexandra Martínez"
-date: "Abril 26 - 2026"
----
-
 # 🎓 Mentoría de Finanzas para Microemprendedores
 
 ## 🚀 De la idea al crecimiento sostenible
