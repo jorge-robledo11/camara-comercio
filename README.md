@@ -924,7 +924,7 @@ $$Ahorro = Excedente \times 0{,}50$$
 | 📐 Margen de contribución | $MC = PV - CV_u$ |
 | ⚖️ Punto de equilibrio (unidades) | $PE_u = \frac{CF}{MC}$ |
 | 💵 Punto de equilibrio (pesos) | $PE_s = PE_u \times PV$ |
-| 📊 Participación por producto | $\%_i = \frac{Unidades_i}{Unidades_{totales}}$ |
-| 📊 Margen ponderado (multiproducto) | $MP = \sum_{i=1}^{n}(MC_i \times \%_i)$ |
+| 📊 Participación por producto | $p_i = \frac{Unidades_i}{Unidades_{totales}}$ |
+| 📊 Margen ponderado (multiproducto) | $MP = \sum_{i=1}^{n}(MC_i \times p_i)$ |
 | ⚖️ P.E. multiproducto | $PE_{multi} = \frac{CF}{MP}$ |
 | 📅 Meta semanal | $Meta_{sem} = \frac{Meta_{mes}}{4}$ |
