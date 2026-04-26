@@ -1,0 +1,9 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Descubrimiento: Estructura de costos y definicion de precios
+Nacimiento: Margen de contribucion y punto de equilibrio
+Despegue: Lienzo de matriz comparativa de productos/servicios (matriz BCG); analisis de punto de equilibrio multiproducto
+Crecimiento: Tabla de estructurada de costos fijo y variables conforme al modelo de negocio; plantilla de ajuste de precios con base en margen; 
+tabla de modelo de sometimiento del modelo de negocio a diferentes flujos de ingresos (modelo CANVAS)
+Madurez: Analisis de rentabilidad por unidad de negocio o linea de negocio; revision de estructura de costos conforme al modelo de negocio;
+plantilla de recalibracion de punto de equilibrio
+
