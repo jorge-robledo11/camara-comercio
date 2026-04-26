@@ -325,9 +325,9 @@ $$Margen\ de\ contribución = Precio\ de\ venta - Costo\ variable\ unitario$$
 
 | Concepto | Valor |
 |---|---:|
-| Precio de venta por galleta | \$4.000 |
-| Costo variable por galleta | \$2.000 |
-| **Margen de contribución** | **$MC = \$4.000 - \$2.000 = \$2.000$** |
+| Precio de venta por galleta | $4.000 |
+| Costo variable por galleta | $2.000 |
+| **Margen de contribución** | **MC = $4.000 − $2.000 = $2.000** |
 
 > 📌 De cada galleta que vendes, \$2.000 pagan ingredientes y costos variables, y \$2.000 ayudan a pagar el arriendo, los servicios y tu ganancia.
 
